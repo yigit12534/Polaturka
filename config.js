@@ -18,7 +18,7 @@ module.exports = {
         description: 'Polaturka website',
         theme: '#02060f',
         lang: 'en',
-        url: 'https://kalashi.me',
+        url: 'polaturka.xyz',
         image: '',
     },
     title: 'Polaturka',
