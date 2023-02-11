@@ -74,7 +74,7 @@ export default function Footer() {
                   by{" "}
                   <a href={config.social.github}>
                     <span className="text-indigo font-bold underline">
-                      Kalashi
+                      Polaturka
                     </span>
                   </a>
                 </span>
@@ -83,7 +83,7 @@ export default function Footer() {
                 <span className="px-1  text-[13px]  dark:text-white items-center md:font-medium ">
                   Developed by{" "}
                   <span className="text-indigo font-bold underline">
-                    Kalashi
+                    Polaturka
                   </span>
                 </span>
               </div>
