@@ -7,7 +7,7 @@ module.exports = {
         token2: "sQrU6hpJNdqo10J2IkmuF"
     },
     about:{
-        description: "| Discord:Polaturka#1337  İnstagram:Polaturka1337 | ı love she",
+        description: "Hi, I'm Yigit, 17 years old, a developer in Turkey.",
     },
     social:{
         github: "https://github.com/kalashiexe",
